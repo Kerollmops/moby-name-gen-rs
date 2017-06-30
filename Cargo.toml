@@ -1,6 +1,13 @@
 [package]
 name = "moby-name-gen"
 version = "0.1.0"
+documentation = "https://docs.rs/moby-name-gen"
+description = "The Moby way to generate random names"
+homepage = "https://github.com/Kerollmops/moby-name-gen-rs"
+repository = "https://github.com/Kerollmops/moby-name-gen-rs"
+license-file = "LICENSE"
+readme = "README.md"
+keywords = ["generator", "name", "moby", "random"]
 authors = ["Kerollmops <renault.cle@gmail.com>"]
 
 [dependencies]
